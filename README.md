@@ -1,16 +1,20 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img alt="A brief becomes a spec, the spec becomes services, the services ship to the cloud, and the pages are served live." src="header-light.svg">
+</picture>
 
-<!--
-**MeetSnowmaker/MeetSnowmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Erik Szabó
 
-Here are some ideas to get you started:
+**Solutions Architect · from brief to production**<br>
+<sub>specification, full-stack, DevOps, agentic AI</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design, build and run cloud-native applications at volume — from cluster topology through API
+surface to how the front end actually renders.
+
+By day that means enterprise platforms of every age: legacy systems I inherited and greenfield
+ones I designed, usually in the same week.
+
+By night: generative art, a sci-fi psychological horror trilogy that so far lives only in design
+documents, and small tools built because something annoyed me exactly once.
+
+[snowmaker.io →](https://snowmaker.io)

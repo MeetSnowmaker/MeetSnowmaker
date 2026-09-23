@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50 52 1110 196" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- From brief to production: brief, spec, services, cloud, pages served live. -->
+  <!-- the brief -->
+  <g stroke="#7d8b9c" stroke-width="3">
+    <path d="M70 80 H150 L175 105 V220 H70 Z"/><path d="M150 80 V105 H175"/>
+    <path d="M90 130 H150 M90 150 H140 M90 170 H154 M90 190 H120" opacity="0.8"/>
+  </g>
+  <!-- the spec -->
+  <g stroke="#7d8b9c" stroke-width="3">
+    <rect x="270" y="72" width="120" height="156" rx="6"/>
+    <rect x="288" y="98" width="14" height="14" rx="2"/><path d="M314 105 H370" opacity="0.8"/>
+    <rect x="288" y="130" width="14" height="14" rx="2"/><path d="M314 137 H362" opacity="0.8"/>
+    <rect x="288" y="162" width="14" height="14" rx="2"/><path d="M314 169 H372" opacity="0.8"/>
+    <rect x="288" y="194" width="14" height="14" rx="2"/><path d="M314 201 H350" opacity="0.8"/>
+    <path d="M291 105 l4 4 l7 -8 M291 137 l4 4 l7 -8 M291 169 l4 4 l7 -8"/>
+  </g>
+  <!-- the services -->
+  <g stroke="#7d8b9c" stroke-width="3">
+    <rect x="486" y="84" width="96" height="44" rx="4"/>
+    <rect x="486" y="172" width="96" height="44" rx="4"/>
+    <rect x="620" y="128" width="96" height="44" rx="4"/>
+    <path d="M534 128 V172 M582 106 H600 V150 H620 M582 194 H600 V150" stroke="#2b3949"/>
+    <path d="M500 106 H540 M500 194 H552 M634 150 H680" opacity="0.8"/>
+  </g>
+  <!-- production -->
+  <path d="M812 176 H892 a22 22 0 0 0 -5 -43.5 a32 32 0 0 0 -60 -7.5 a24 24 0 0 0 -15 51 z" stroke="#7d8b9c" stroke-width="3"/>
+  <g stroke="#7d8b9c" stroke-width="3">
+    <rect x="1000" y="70" width="140" height="100" rx="6" opacity="0.5"/>
+    <rect x="986" y="96" width="140" height="100" rx="6" opacity="0.75"/>
+    <rect x="972" y="122" width="140" height="100" rx="6" fill="#0d1117"/>
+    <path d="M972 142 H1112" opacity="0.7"/>
+    <path d="M988 164 H1040 M988 182 H1090 M988 200 H1066" opacity="0.8"/>
+  </g>
+  <circle cx="1096" cy="132" r="5" fill="#5cba86" stroke="none"/>
+  <!-- the path from brief to production -->
+  <g stroke="#d98a3d" stroke-width="3.5">
+    <path d="M186 150 H256"/><path d="M246 142 L256 150 L246 158"/>
+    <path d="M400 150 H472"/><path d="M462 142 L472 150 L462 158"/>
+    <path d="M726 150 H800"/><path d="M790 142 L800 150 L790 158"/>
+    <path d="M904 156 H958"/><path d="M948 148 L958 156 L948 164"/>
+  </g>
+</svg>
